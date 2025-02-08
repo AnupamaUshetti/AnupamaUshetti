@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and Data Scien
 
 - Machine Learning and AI
 - Advanced Kubernetes
-- Blockchain Development
+- Data Science
 
 ## 📈 GitHub Stats
 
