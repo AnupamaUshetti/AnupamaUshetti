@@ -11,17 +11,15 @@ Welcome to my GitHub profile! I'm a passionate software developer and Data Scien
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js
+- **Languages:** Python, JavaScript, Java
+- **Web Development:** HTML, CSS, React, Node.js, Flutter, SpringBoot
 - **Databases:** MySQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Jenkins
 - **Cloud:** AWS, Azure, Google Cloud
 - **Version Control:** Git, GitHub
 
 ## 🌱 Currently Learning
 
-- Machine Learning and AI
-- Advanced Kubernetes
+- Machine Learning and Generative AI
 - Data Science
 
 ## 📈 GitHub Stats
@@ -31,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and Data Scien
 ## 📫 How to Reach Me
 
 - **Email:** anupamaush69@gmail.com
-- **LinkedIn:** in/nithya-ushetti-b87b6b292
+- **LinkedIn:** [ in/nithya-ushetti-b87b6b292](https://www.linkedin.com/in/nithya-ushetti-b87b6b292/)
 
 ## 💬 Let's Connect!
 
