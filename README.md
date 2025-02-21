@@ -26,10 +26,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and Data Scien
 
 ![Anupama's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnupamaUshetti&show_icons=true&theme=radical)
 
-# Project Name
-
-![GitHub language count](https://img.shields.io/github/languages/count/AnupamaUshetti/)
-![GitHub top language](https://img.shields.io/github/languages/top/AnupamaUshett/)
 
 ## 📫 How to Reach Me
 
@@ -40,5 +36,3 @@ Welcome to my GitHub profile! I'm a passionate software developer and Data Scien
 
 Feel free to reach out to me for collaboration on exciting projects, open-source contributions, or just to have a tech chat!
 
-## License
-[MIT](LICENSE)
