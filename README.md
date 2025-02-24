@@ -1,4 +1,7 @@
-# Hi there, I'm Anupama Ushetti! 👋
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Hi,+I'm+Anupama;Feel+free+to+check+out+my+projects!">
+</p> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Welcome to my GitHub profile! I'm a passionate software developer and Data Science enthusiast with a keen interest in building innovative solutions and contributing to the open-source community.
 
@@ -49,14 +52,6 @@ I'm always looking to collaborate on:
 ## 📈 GitHub Stats
 ![Anupama's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnupamaUshetti&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamaUshetti&layout=compact&theme=radical)
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&width=435&lines=Welcome+to+my+GitHub+profile;Let's+build+something+amazing!">
-</p>
-
-<!-- Waving Hand GIF -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <!-- Alternative trophies display -->
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AnupamaUshetti&theme=dracula&column=7)
