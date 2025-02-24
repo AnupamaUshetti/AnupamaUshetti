@@ -51,7 +51,8 @@ I'm always looking to collaborate on:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamaUshetti&layout=compact&theme=radical)
 
 <!-- Animated GitHub Logo -->
-<img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/main/github-logo.gif" width="40px">
+<img src="https://raw.githubusercontent.com/AnupamaUshetti/AnupamaUshetti/main/github-logo.gif" width="40px">
+
 <!-- Alternative trophies display -->
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AnupamaUshetti&theme=dracula&column=7)
 
