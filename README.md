@@ -10,9 +10,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and Data Scien
 
 ## 🔧 Technologies & Tools
 * **Languages:** Python, JavaScript, Java
-* **Web Development:** HTML, CSS, React, Node.js, Flutter, SpringBoot
+* **Web Development:** HTML, CSS, React, Node.js, SpringBoot
 * **Databases:** MySQL, MongoDB
-* **Cloud:** AWS, Azure, Google Cloud
 * **Version Control:** Git, GitHub
 
 ## 🌱 Currently Learning
@@ -70,10 +69,8 @@ Feel free to reach out to me for collaboration on exciting projects, open-source
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
