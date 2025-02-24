@@ -48,7 +48,7 @@ I'm always looking to collaborate on:
 
 ## 📈 GitHub Stats
 ![Anupama's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnupamaUshetti&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamaUshetti&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 * **Email:** anupamaush69@gmail.com
