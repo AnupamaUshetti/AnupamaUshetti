@@ -48,7 +48,7 @@ I'm always looking to collaborate on:
 - When I'm not coding, you'll find me on Facebook
 
 ## 📈 GitHub Stats
-![Anupama's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Anupama's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnupamaUshetti&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
