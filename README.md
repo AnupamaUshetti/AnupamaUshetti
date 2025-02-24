@@ -56,10 +56,6 @@ I'm always looking to collaborate on:
 <!-- Alternative trophies display -->
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AnupamaUshetti&theme=dracula&column=7)
 
-<!-- GitHub contributions -->
-![Snake animation](https://github.com/AnupamaUshetti/AnupamaUshetti/blob/output/github-contribution-grid-snake.svg)
-
-
 ## 📫 How to Reach Me
 * **Email:** anupamaush69@gmail.com
 * **LinkedIn:** [in/nithya-ushetti-b87b6b292](https://www.linkedin.com/in/nithya-ushetti-b87b6b292/)
