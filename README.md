@@ -50,9 +50,8 @@ I'm always looking to collaborate on:
 ![Anupama's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnupamaUshetti&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamaUshetti&layout=compact&theme=radical)
 
-<!-- Random Cat Image -->
-![Random Cat](https://cataas.com/cat)
-
+<!-- Animated GitHub Logo -->
+<img src="https://raw.githubusercontent.com/YourGitHubUsername/YourGitHubUsername/main/github-logo.gif" width="40px">
 <!-- Alternative trophies display -->
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AnupamaUshetti&theme=dracula&column=7)
 
