@@ -51,7 +51,7 @@ I'm always looking to collaborate on:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamaUshetti&layout=compact&theme=radical)
 
 <!-- GitHub Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=AnupamaUshetti&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/user=AnupamaUshetti&theme=radical)
 
 <!-- Alternative trophies display -->
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AnupamaUshetti&theme=dracula&column=7)
