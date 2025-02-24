@@ -50,11 +50,14 @@ I'm always looking to collaborate on:
 ![Anupama's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnupamaUshetti&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamaUshetti&layout=compact&theme=radical)
 
-<!-- GitHub activity graph -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnupamaUshetti&theme=react-dark)
-
 <!-- GitHub streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnupamaUshetti&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=AnupamaUshetti&theme=radical)
+
+<!-- Alternative trophies display -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=AnupamaUshetti&theme=dracula&column=7)
+
+<!-- GitHub contributions -->
+![Snake animation](https://github.com/AnupamaUshetti/AnupamaUshetti/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 📫 How to Reach Me
