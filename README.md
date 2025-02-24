@@ -50,6 +50,13 @@ I'm always looking to collaborate on:
 ![Anupama's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnupamaUshetti&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamaUshetti&layout=compact&theme=radical)
 
+<!-- GitHub activity graph -->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnupamaUshetti&theme=react-dark)
+
+<!-- GitHub streak stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnupamaUshetti&theme=radical)
+
+
 ## 📫 How to Reach Me
 * **Email:** anupamaush69@gmail.com
 * **LinkedIn:** [in/nithya-ushetti-b87b6b292](https://www.linkedin.com/in/nithya-ushetti-b87b6b292/)
@@ -73,6 +80,3 @@ Feel free to reach out to me for collaboration on exciting projects, open-source
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-<!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=AnupamaUshetti&color=brightgreen)
