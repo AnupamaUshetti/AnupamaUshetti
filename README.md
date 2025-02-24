@@ -1,10 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=Hi,+I'm+Anupama+Ushetti+👋;Welcome+to+my+GitHub+profile!">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=000000&width=435&lines=Hi,+I'm+Anupama+Ushetti+👋;Welcome+to+my+GitHub+profile!">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=000000&width=435&lines=Hi,+I'm+Anupama+Ushetti+👋;Welcome+to+my+GitHub+profile!" alt="Typing Animation">
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=Hi,+I'm+Anupama+Ushetti+👋;Welcome+to+my+GitHub+profile!">
 </p>
 
 I'm a passionate software developer and Data Science enthusiast with a keen interest in building innovative solutions and contributing to the open-source community.
