@@ -50,8 +50,8 @@ I'm always looking to collaborate on:
 ![Anupama's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnupamaUshetti&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamaUshetti&layout=compact&theme=radical)
 
-<!-- Animated GitHub Logo -->
-<img src="https://raw.githubusercontent.com/AnupamaUshetti/AnupamaUshetti/main/github-logo.gif" width="40px">
+<!-- Waving Hand GIF -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <!-- Alternative trophies display -->
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AnupamaUshetti&theme=dracula&column=7)
