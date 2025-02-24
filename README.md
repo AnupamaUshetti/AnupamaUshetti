@@ -50,7 +50,7 @@ I'm always looking to collaborate on:
 ![Anupama's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnupamaUshetti&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamaUshetti&layout=compact&theme=radical)
 
-<!-- GitHub streak stats -->
+<!-- GitHub Streak Stats -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnupamaUshetti&theme=radical)
 
 <!-- Alternative trophies display -->
