@@ -75,4 +75,4 @@ Feel free to reach out to me for collaboration on exciting projects, open-source
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 <!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=AnupamaUshetti&color=brightgreen)
