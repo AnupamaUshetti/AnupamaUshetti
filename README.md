@@ -55,7 +55,7 @@ I'm always looking to collaborate on:
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AnupamaUshetti&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AnupamaUshetti&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamaUshetti&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnupamaUshetti&theme=radical&no-frame=false&no-bg=false&margin-w=4)
