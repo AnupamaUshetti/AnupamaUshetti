@@ -9,7 +9,7 @@ I'm a passionate software developer and Data Science enthusiast with a keen inte
 * **Name:** Anupama Ushetti
 * **Current Role:** Software Developer
 * **Location:** Colombo, Sri Lanka
-* **Education:** University of 
+* **Education:** University of Westminster
 
 ## 🔧 Technologies & Tools
 * **Languages:** Python, JavaScript, Java
