@@ -1,5 +1,7 @@
 <!-- Typing Animation -->
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=Hi,+I'm+Anupama+Ushetti+👋;Welcome+to+my+GitHub+profile!">
+</p>
 
 I'm a passionate software developer and Data Science enthusiast with a keen interest in building innovative solutions and contributing to the open-source community.
 
