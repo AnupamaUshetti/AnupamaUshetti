@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-Hi,+I'm+Anupama+Ushetti+👋
+<h1>Hi, I'm Anupama Ushetti 👋</h1>
 </p>
 
 I'm a passionate software developer and Data Science enthusiast with a keen interest in building innovative solutions and contributing to the open-source community.
