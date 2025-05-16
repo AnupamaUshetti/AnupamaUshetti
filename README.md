@@ -10,6 +10,7 @@ I'm a passionate software developer and Data Science enthusiast with a keen inte
 * **Current Role:** Software Developer
 * **Location:** Colombo, Sri Lanka
 * **Education:** University of Westminster
+* **Education:** Royal College Colombo.07
 
 ## 🔧 Technologies & Tools
 * **Languages:** Python, JavaScript, Java
