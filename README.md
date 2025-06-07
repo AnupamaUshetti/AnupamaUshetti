@@ -15,7 +15,7 @@ I'm a passionate software developer and Data Science enthusiast with a keen inte
 ## 🔧 Technologies & Tools
 * **Languages:** Python, JavaScript, Java
 * **Web Development:** HTML, CSS, React, Node.js, SpringBoot
-* **Databases:** MySQL, Firebase
+* **Databases &:** MySQL, Firebase
 * **Version Control:** Git, GitHub
 
 ## 🌱 Currently Learning
