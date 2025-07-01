@@ -1,7 +1,7 @@
 <!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+,+I'm+Anupama+Ushetti+👋;Welcome+to+my+GitHub!&center=true&size=28)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Anupama+Ushetti+👋;Welcome+to+my+GitHub!&center=true&size=28)](https://git.io/typing-svg)
 
 </div>
 
