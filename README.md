@@ -1,7 +1,5 @@
 <!-- Typing Animation -->
-<h1 align="center">
-Hi, I'm Anupama Ushetti 👋
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Anupama+Ushetti+👋;Welcome+to+my+GitHub!&center=true&size=28)](https://git.io/typing-svg)
 
 Passionate Software Developer; Data Science and Machine Learning enthusiast focused on building innovative solutions and creating impactful user experiences. Experienced in developing web applications and leveraging data for insights. Actively contributing to the open-source community.
 
