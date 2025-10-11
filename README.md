@@ -17,7 +17,7 @@ Passionate Software Developer; Data Science and Machine Learning enthusiast focu
 ## 🔧 Technologies & Tools
 * **Languages:** Python, JavaScript, Java
 * **Web Development:** HTML, CSS, React, Node.js, SpringBoot
-* **Databases & Cloud services:** MySQL, Firebase, Google Cloud
+* **Databases & Cloud services:** MySQL, SQLite, Firebase, Google Cloud
 * **Version Control:** Git, GitHub
 
 ## 🌱 Currently Learning
